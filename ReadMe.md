@@ -1,3 +1,3 @@
 # web programming lab work
 
-this is for testing how github has as code tracker is working
+this is for testing how github as code tracker is working
